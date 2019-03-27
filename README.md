@@ -1,3 +1,6 @@
+language: Python
+Required Packages: NumPy, Pandas, Scikit-Learn, NLTK, Bokeh, Matplotlib, Seaborn
+
 # Gender-Prediction on Twitter Dataset
 Gender Prediction on Twitter Dataset
 
